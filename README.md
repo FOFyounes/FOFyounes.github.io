@@ -4,6 +4,8 @@
 
 ## [Structure](courses/structure/)
 
+## [Materials](courses/Materials/Cive265.md)
+
 ### 3rd header
 
 This is how you type text
