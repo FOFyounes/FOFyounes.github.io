@@ -2,6 +2,8 @@
 
 ## 2nd header
 
+## [Structure](courses/structure/)
+
 ### 3rd header
 
 This is how you type text
