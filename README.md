@@ -12,7 +12,7 @@ This is how you type text
 - here's the second bullet point
 - this could keep going
 
-[Assignment 1](courses/structure/assignment1.html)
+[Assignment 1](courses/structure/assignments/assignment1.html)
 
 1. Taha is idiot
 2. So is Ben
