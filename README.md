@@ -10,6 +10,8 @@ This is how you type text
 - here's the second bullet point
 - this could keep going
 
+[Assignment 1](courses/structure/assignment1.html)
+
 1. Taha is idiot
 2. So is Ben
 3. This is a joke
